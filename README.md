@@ -36,7 +36,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       <!-- LAYA -->
       <td align="center">
         <a href="#">
-          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/1.png" alt="LAYA Project" width="400">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/1.png" alt="LAYA Project" width="300">
         </a>
         <br>
         <b>LAYA: Legal Aid AI</b>
@@ -44,7 +44,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       <!-- NPKnows -->
       <td align="center">
         <a href="https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier">
-          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/3.png" alt="NPK Detector" width="400">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/3.png" alt="NPK Detector" width="300">
         </a>
         <br>
         <b>NPKnows</b>
@@ -52,15 +52,17 @@ I aspire to be a successful software developer and/or machine learning expert. I
       <!-- iPaws -->
       <td align="center">
         <a href="https://github.com/itzjmbruhhh/OOP-Finals-Project">
-          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/2.png" alt="iPaws" width="400">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/2.png" alt="iPaws" width="300">
         </a>
         <br>
         <b>iPaws</b>
       </td>
+    </tr>
+    <tr>
       <!-- Leaf it Up to Me -->
       <td align="center">
         <a href="https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier">
-          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/4.png" alt="Leaf It Up To Me" width="400">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/4.png" alt="Leaf It Up To Me" width="300">
         </a>
         <br>
         <b>Leaf it Up to Me</b>
@@ -68,7 +70,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       <!-- ArcadeHub -->
       <td align="center">
         <a href="https://ohara.ai/mini-apps/dbe753f9-968c-42a9-87c5-6489a630345e">
-          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/5.png" alt="ArcadeHub" width="400">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/5.png" alt="ArcadeHub" width="300">
         </a>
         <br>
         <b>ArcadeHub</b>
@@ -76,7 +78,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       <!-- Smart Admission -->
       <td align="center">
         <a href="https://github.com/itzjmbruhhh/NU_Admission">
-          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/6.png" alt="NU Smart Admission" width="400">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/6.png" alt="NU Smart Admission" width="300">
         </a>
         <br>
         <b>NU Lipa Smart Admission</b>
@@ -84,6 +86,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
     </tr>
   </table>
 </p>
+
 
 
 <details>
