@@ -35,7 +35,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
     <tr>
       <!-- LAYA -->
       <td align="center">
-        <a href="#">
+        <a href="https://github.com/jeisquaredd/LAYA">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/1.png" alt="LAYA Project" width="300">
         </a>
         <br>
@@ -43,7 +43,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       </td>
       <!-- NPKnows -->
       <td align="center">
-        <a href="https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier">
+        <a href="https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier_IoT">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/3.png" alt="NPK Detector" width="300">
         </a>
         <br>
