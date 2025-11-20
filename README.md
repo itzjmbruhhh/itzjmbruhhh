@@ -57,6 +57,30 @@ I aspire to be a successful software developer and/or machine learning expert. I
          </a>
           <b>iPaws</b>
       </td>
+       <!-- Leaf it Up to me -->
+      <td align="center">
+        <a href="https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/4.png" alt="Leaf It Up To Me" width="400"/>
+          <br/>
+         </a>
+          <b>Leaf it Up to Me</b>
+      </td>
+      <!-- ArcadeHub -->
+      <td align="center">
+        <a href="https://ohara.ai/mini-apps/dbe753f9-968c-42a9-87c5-6489a630345e">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/5.png" alt="ArcadeHub" width="400"/>
+          <br/>
+         </a>
+          <b>ArcadeHub</b>
+      </td>
+      <!-- Smart Admission -->
+      <td align="center">
+        <a href="https://github.com/itzjmbruhhh/NU_Admission">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/6.png" alt="ArcadeHub" width="400"/>
+          <br/>
+         </a>
+          <b>NU Lipa Smart Admission</b>
+      </td>
     </tr>
   </table>
 </p>
