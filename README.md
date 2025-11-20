@@ -57,6 +57,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
          </a>
           <b>iPaws</b>
       </td>
+      <br><br>
        <!-- Leaf it Up to me -->
       <td align="center">
         <a href="https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier">
