@@ -7,7 +7,7 @@
 I aspire to be a successful software developer and/or machine learning expert. I build my projects one step at a time, I enjoy learning new things and squishing bugs is my specialty (cries in 6 hours). I'm passionate about Artificial Intelligence, Machine Learning, and Full-Stack Web Development. I love building intelligent systems that solve real-world problems, whether it's deep learning models for plant disease detection or NLP-driven AI assistants.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/john-michael-reyes-543093356">
+  <a href="https://www.linkedin.com/in/itzjmbruhhh">
     <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
