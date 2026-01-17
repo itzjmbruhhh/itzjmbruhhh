@@ -35,7 +35,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
     <tr>
       <!-- LAYA -->
       <td align="center">
-        <a href="https://github.com/jeisquaredd/LAYA">
+        <a href="https://github.com/iNUvators/LAYA">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/1.png" alt="LAYA Project" width="300">
         </a>
         <br>
