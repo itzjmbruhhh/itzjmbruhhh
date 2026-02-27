@@ -69,7 +69,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       </td>
       <!-- ArcadeHub -->
       <td align="center">
-        <a href="https://ohara.ai/mini-apps/dbe753f9-968c-42a9-87c5-6489a630345e">
+        <a href="https://arcade-hub-pink.vercel.app/">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/5.png" alt="ArcadeHub" width="300">
         </a>
         <br>
