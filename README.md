@@ -147,16 +147,25 @@ I aspire to be a successful software developer and/or machine learning expert. I
 
 <table align="center">
   <tr>
+    <!-- Python Specialist -->
     <td align="center" style="padding: 0 30px;">
       <a href="https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=471&cvid=gJa16edaw0zmiq6bgXDudw==" style="text-decoration: none;">
         <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/ITS_Python.png" alt="Python IT Specialist" width="150"/><br/>
         <b>Python IT Specialist - Certiport</b>
       </a>
     </td>
+    <!-- IC3: Digital Literacy -->
     <td align="center" style="padding: 0 30px;">
       <a href="https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=447&cvid=53MwZ6dvm6ZlxZr9m/osvg==" style="text-decoration: none;">
         <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/IC3_Level1.png" alt="IC3 Digital Literacy" width="150"/><br/>
         <b>IC3 Digital Literacy Global Standard Six</b>
+      </a>
+    </td>
+    <!-- ML Python -->
+    <td align="center" style="padding: 0 30px;">
+      <a href="https://www.freecodecamp.org/certification/itzjmbruhhh/machine-learning-with-python-v7" style="text-decoration: none;">
+        <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/fcc.png" alt="Machine Learning Python" width="150"/><br/>
+        <b>Machine Learning with Python - FCC</b>
       </a>
     </td>
   </tr>
