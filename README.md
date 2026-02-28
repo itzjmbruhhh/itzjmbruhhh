@@ -180,12 +180,17 @@ I aspire to be a successful software developer and/or machine learning expert. I
     I started my coding journey as a clueless computer science student with a passion to learn much that I can grasp. As a student, I believe that we could be better through endless learning. My journey as of now has thought me to stay commited to what I do and to never be afraid of things that are new. As a student in NU-Lipa, I first learned Java of which I struggled a bit, but through practice I got somewhat decent with it. I tried experimenting with other languages and different projects, but the one that caught my eye the most, is building machine learning models. As of now, I still enjoy coding in java, but I hone and focus my attention to building my projects with Django and React. I am somewhat decent with python and javascript, but I am confident of what I can do. I have trained multiple ML models from Convolutional Neural Networks to Natural Language Processing. Some projects, I've had the honor to present in conferences and compete nationwide. I am proud of my current feats, but I know there is a lot more than meets the eye.
   </p>
 
-  <h4>📌 Conferences & Competitions Attended</h4>
+</details>
+
+#
+
+<details>
+  <summary><h3>📌 Conferences & Competitions Attended</h3></summary>
   <ul>
     <li>🎓 <b>24th Philippine Computing Science Congress</b> - La Salle, Laguna (May 2024)</li>
     <li>🌍 <b>APPCON 2023</b> - Represented NU-Lipa, AI for Social Issues (October 2023 - April 2024)</li>
     <li>💡 <b>CHED LAKAS AI Research Program</b> - Focused on NLP AI (October 2023)</li>
+    <li>🥉 <b>BaseBuildPH</b> - Seminar for blockchain development, Achieved 3rd place in the hackathon with “Arcade Hub” (September 2025)</li>
   </ul>
-
 </details>
 
