@@ -138,8 +138,8 @@ I aspire to be a successful software developer and/or machine learning expert. I
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itzjmbruhhh&theme=nord&hide_border=true" alt="itzjmbruhhh's GitHub Stats" height="165"/> &nbsp &nbsp
-  <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=itzjmbruhhh&layout=compact&theme=nord&hide_border=true&hide=Jupyter%20Notebook" />
-  <img src="https://beautiful-github-homepage.vercel.app/api?username=itzjmbruhhh&show_icons=true&theme=nord&hide_border=true&hide=stars,issues&show=prs_merged,prs_merged_percentage">
+  <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=itzjmbruhhh&layout=compact&theme=nord&hide_border=true&hide=Jupyter%20Notebook" height="165"/>
+  <img src="https://beautiful-github-homepage.vercel.app/api?username=itzjmbruhhh&show_icons=true&theme=nord&hide_border=true&hide=stars,issues&show=prs_merged,prs_merged_percentage" height="165">
 </p>
 
 #
