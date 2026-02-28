@@ -152,9 +152,6 @@ I aspire to be a successful software developer and/or machine learning expert. I
     <br/>
   </a>
     <b>Python IT Specialist - Certiport</b>
-</p>
-
-<p align="center">
   <a href="https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=447&cvid=53MwZ6dvm6ZlxZr9m/osvg==" style="text-decoration: none;">
     <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/IC3_Level1.png" alt="IC3 Digital Literacy" width="150"/>
     <br/>
