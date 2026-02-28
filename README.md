@@ -90,6 +90,30 @@ I aspire to be a successful software developer and/or machine learning expert. I
         <br>
         <b>NU Lipa Smart Admission</b>
       </td>
+       <!-- Peek-A-Book -->
+      <td align="center">
+        <a href="https://github.com/itzjmbruhhh/Peek-A-Book">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/7.png" alt="Peek-A-Book" width="300">
+        </a>
+        <br>
+        <b>Peek-A-Book</b>
+      </td>
+      <!-- BarakoSense -->
+      <td align="center">
+        <a href="https://github.com/kylajamito/BarakoSense/">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/8.png" alt="BarakoSense" width="300">
+        </a>
+        <br>
+        <b>BarakoSense</b>
+      </td>
+      <!-- Locate.io -->
+      <td align="center">
+        <a href="https://github.com/itzjmbruhhh/geo-webapp-frontend">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/9.png" alt="Locate.io" width="300">
+        </a>
+        <br>
+        <b>Locate.io</b>
+      </td>
     </tr>
   </table>
 </p>
