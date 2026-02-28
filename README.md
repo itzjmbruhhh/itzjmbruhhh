@@ -89,6 +89,8 @@ I aspire to be a successful software developer and/or machine learning expert. I
         </a>
         <br>
         <b>NU Lipa Smart Admission</b>
+      </tr>
+      <tr>
       </td>
        <!-- Peek-A-Book -->
       <td align="center">
