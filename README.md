@@ -139,6 +139,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itzjmbruhhh&theme=nord&hide_border=true" alt="itzjmbruhhh's GitHub Stats" height="165"/> &nbsp &nbsp
   <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=itzjmbruhhh&layout=compact&theme=nord&hide_border=true&hide=Jupyter%20Notebook" />
+  <img src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&show_icons=true&theme=nord&hide_border=true">
 </p>
 
 #
