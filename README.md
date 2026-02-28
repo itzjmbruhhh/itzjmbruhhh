@@ -128,6 +128,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
     <li><a href="https://github.com/itzjmbruhhh/notes-app-v2">Notes App - Made from React-Django</a></li>
     <li><a href="https://github.com/itzjmbruhhh/fitgirl_batch_downloader">Fitgirl Batch Downloader - Batch Downloader for fitgirl repacks</a></li>
     <li><a href="https://github.com/itzjmbruhhh/CNN_Projects">CNN Models Trained - Some of the CNN models I trained</a></li>
+    <li><a href="https://github.com/itzjmbruhhh/llm-book-recommender">Semantic Book Recommender (Python, Transformers, LangChain, Gradio)</a></li>
   </ul>
 </details>
 
