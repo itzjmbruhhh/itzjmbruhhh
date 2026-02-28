@@ -145,17 +145,22 @@ I aspire to be a successful software developer and/or machine learning expert. I
 
 ### 📃 Certifications
 
-<p align="center">
-  <a href="https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=471&cvid=gJa16edaw0zmiq6bgXDudw==" style="text-decoration: none; margin: 0 20px;">
-    <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/ITS_Python.png" alt="Python IT Specialist" width="150"/><br/>
-    <b>Python IT Specialist - Certiport</b>
-  </a>
-
-  <a href="https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=447&cvid=53MwZ6dvm6ZlxZr9m/osvg==" style="text-decoration: none; margin: 0 20px;">
-    <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/IC3_Level1.png" alt="IC3 Digital Literacy" width="150"/><br/>
-    <b>IC3 Digital Literacy Global Standard Six</b>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 0 30px;">
+      <a href="https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=471&cvid=gJa16edaw0zmiq6bgXDudw==" style="text-decoration: none;">
+        <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/ITS_Python.png" alt="Python IT Specialist" width="150"/><br/>
+        <b>Python IT Specialist - Certiport</b>
+      </a>
+    </td>
+    <td align="center" style="padding: 0 30px;">
+      <a href="https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=447&cvid=53MwZ6dvm6ZlxZr9m/osvg==" style="text-decoration: none;">
+        <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/IC3_Level1.png" alt="IC3 Digital Literacy" width="150"/><br/>
+        <b>IC3 Digital Literacy Global Standard Six</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 #
 
