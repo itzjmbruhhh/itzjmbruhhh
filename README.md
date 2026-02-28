@@ -106,7 +106,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=itzjmbruhhh&show_icons=true&theme=city_lights" alt="GitHub Stats" height="165"/> -->
   <img src="https://streak-stats.demolab.com?user=itzjmbruhhh&theme=nord&hide_border=true" alt="itzjmbruhhh's GitHub Stats" height="165"/> &nbsp &nbsp
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzjmbruhhh&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="itzjmbruhhh's GitHub Stats" height="165"/> -->
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/ username=itzjmbruhhh&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+  [![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?itzjmbruhhh=ishandutta2007&exclude_repo=beautiful-github-homepage,ishandutta2007.github.io)](https://github.com/ishandutta2007/beautiful-github-homepage)
 </p>
 
 #
