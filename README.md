@@ -50,7 +50,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       </td>
       <!-- NPKnows -->
       <td align="center">
-        <a href="https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier_IoT">
+        <a href="https://npknows.vercel.app/">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/3.png" alt="NPK Detector" width="300">
         </a>
         <br>
