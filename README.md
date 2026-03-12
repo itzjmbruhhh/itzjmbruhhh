@@ -42,7 +42,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
     <tr>
       <!-- LAYA -->
       <td align="center">
-        <a href="https://github.com/iNUvators/LAYA">
+        <a href="https://github.com/iNUvators/LAYA" target="_blank">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/1.png" alt="LAYA Project" width="300">
         </a>
         <br>
@@ -50,7 +50,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       </td>
       <!-- NPKnows -->
       <td align="center">
-        <a href="https://npknows.vercel.app/">
+        <a href="https://npknows.vercel.app/" target="_blank">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/3.png" alt="NPK Detector" width="300">
         </a>
         <br>
@@ -58,7 +58,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       </td>
       <!-- iPaws -->
       <td align="center">
-        <a href="https://github.com/itzjmbruhhh/OOP-Finals-Project">
+        <a href="https://github.com/itzjmbruhhh/OOP-Finals-Project" target="_blank">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/2.png" alt="iPaws" width="300">
         </a>
         <br>
@@ -68,7 +68,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
     <tr>
       <!-- Leaf it Up to Me -->
       <td align="center">
-        <a href="https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier">
+        <a href="https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier" target="_blank">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/4.png" alt="Leaf It Up To Me" width="300">
         </a>
         <br>
@@ -84,7 +84,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       </td>
       <!-- Smart Admission -->
       <td align="center">
-        <a href="https://github.com/itzjmbruhhh/NU_Admission">
+        <a href="https://github.com/itzjmbruhhh/NU_Admission" target="_blank">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/6.png" alt="NU Smart Admission" width="300">
         </a>
         <br>
@@ -94,7 +94,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       </td>
        <!-- Peek-A-Book -->
       <td align="center">
-        <a href="https://github.com/itzjmbruhhh/Peek-A-Book">
+        <a href="https://github.com/itzjmbruhhh/Peek-A-Book" target="_blank">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/7.png" alt="Peek-A-Book" width="300">
         </a>
         <br>
@@ -102,7 +102,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       </td>
       <!-- BarakoSense -->
       <td align="center">
-        <a href="https://github.com/kylajamito/BarakoSense/">
+        <a href="https://github.com/kylajamito/BarakoSense/" target="_blank">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/8.png" alt="BarakoSense" width="300">
         </a>
         <br>
@@ -110,7 +110,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       </td>
       <!-- Locate.io -->
       <td align="center">
-        <a href="https://github.com/itzjmbruhhh/geo-webapp-frontend">
+        <a href="https://github.com/itzjmbruhhh/geo-webapp-frontend" target="_blank">
           <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/9.png" alt="Locate.io" width="300">
         </a>
         <br>
