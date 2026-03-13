@@ -1,5 +1,5 @@
 #  🧑‍💻 Hi, I'm John Michael R. Reyes!
-🎓 Computer Science Student @ National University | 🤖 AI & ML Enthusiast | 💻 Full-Stack Developer
+🎓 Computer Science Student @ National University | 🤖 AI & ML Enthusiast | 💻 Full-Stack Developer | 📊 Data Scientist
 
 **`𝓒'𝓮𝓼𝓽 𝓮𝓷 𝓯𝓪𝓲𝓼𝓪𝓷𝓽 𝓷'𝓲𝓶𝓹𝓸𝓻𝓽𝓮 𝓺𝓾𝓸𝓲 𝓺𝓾𝓸𝓷 𝓭𝓮𝓿𝓲𝓮𝓷𝓽 𝓷'𝓲𝓶𝓹𝓸𝓻𝓽𝓮 𝓺𝓾𝓲`**
 
